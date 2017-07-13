@@ -1,1 +1,1 @@
-
+Standalone EXE of the GEPCloner.PSF file created in Sapien PowerShell studio.  Provides a graphical interface for interacting with a ChameleonMini RevG RFID cloner.  64bit exe export from PowerShell Studio.
